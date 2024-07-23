@@ -614,6 +614,7 @@ const BLEScanner = () => {
             }}
           >
             <Text>{item.name}</Text>
+            {/* <Text>{item.id}</Text> */}
             <Text>{item.id}</Text>
           </TouchableOpacity>
         )}
